@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on entry level projects
 - 📫 How to reach me through this account
 - Located in Atlanta
-- Resume ![image](https://user-images.githubusercontent.com/81928988/135911197-65bc3536-c63b-4c00-8d51-e82b5fb53283.png)
+- Resume https://docs.google.com/document/d/15iWQLvaHVZDKSsr_Wu6BHmNEB_HOkuwOfqY5O_cwjT8/edit
 
 
 <!---
