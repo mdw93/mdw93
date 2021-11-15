@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mdw93
 - 👀 I’m interested in learning full stack developement
 - 🌱 I’m currently learning css and javascript 
-- 💞️ I’m looking to collaborate on entry level projects
-- 📫 How to reach me through this account
+- 📫 How to reach me through this account or mdwmdw9393@gmail.com
+- HTML, CSS, JavaScript, Git, APIs, NPM, Jest, Node.js, Express, Sequelize, MySQL, Handlebars, OOP, ORM, MVC, MongoDB, and React
 - Located in Atlanta
 - Resume https://docs.google.com/document/d/15iWQLvaHVZDKSsr_Wu6BHmNEB_HOkuwOfqY5O_cwjT8/edit
 
