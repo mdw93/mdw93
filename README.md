@@ -4,7 +4,8 @@
 - 📫 How to reach me through this account or mdwmdw9393@gmail.com
 - HTML, CSS, JavaScript, Git, APIs, NPM, Jest, Node.js, Express, Sequelize, MySQL, Handlebars, OOP, ORM, MVC, MongoDB, and React
 - Located in Atlanta
-- Resume https://docs.google.com/document/d/15iWQLvaHVZDKSsr_Wu6BHmNEB_HOkuwOfqY5O_cwjT8/edit
+- Resume https://docs.google.com/document/d/1ni2OK4TKABuWj7Dq8wLgV8O5uahNqdgZhX0AL-Zk_og/edit#
+- Linkdin linkedin.com/in/mwilliams-mern
 
 
 <!---
